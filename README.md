@@ -1,2 +1,2 @@
-# Python_code
+# Python code
  Collect the code of python
